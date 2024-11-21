@@ -6,7 +6,9 @@ const chat = () => {
     <View>
       <Text>chat</Text>
       <Text>chat</Text>
-      <Text>chat</Text>v
+      <Text>chat</Text>
+      <Text>chato</Text>
+      <Text>chato</Text>
     </View>
   );
 };
